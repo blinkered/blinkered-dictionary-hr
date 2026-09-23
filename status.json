@@ -1,0 +1,135 @@
+{
+  "language": "hr",
+  "built": "2026-09-23",
+  "candidates": 341040,
+  "shipped": 219247,
+  "ships": "pending",
+  "decided": null,
+  "why": null,
+  "license": "CC0-1.0",
+  "conforms": true,
+  "families": 17,
+  "checkable": 15,
+  "knee": 4,
+  "steps": [
+    {
+      "families": 1,
+      "added": "commoncrawl",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 2,
+      "added": "wikimedia",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 3,
+      "added": "internetarchive",
+      "kept": 208077,
+      "share": 0.610125,
+      "gained": 208077
+    },
+    {
+      "families": 4,
+      "added": "leipzig",
+      "kept": 217442,
+      "share": 0.637585,
+      "gained": 9365
+    },
+    {
+      "families": 5,
+      "added": "ebible",
+      "kept": 218512,
+      "share": 0.640722,
+      "gained": 1070
+    },
+    {
+      "families": 6,
+      "added": "novilist.hr",
+      "kept": 218686,
+      "share": 0.641233,
+      "gained": 174
+    },
+    {
+      "families": 7,
+      "added": "index.hr",
+      "kept": 218848,
+      "share": 0.641708,
+      "gained": 162
+    },
+    {
+      "families": 8,
+      "added": "net.hr",
+      "kept": 218988,
+      "share": 0.642118,
+      "gained": 140
+    },
+    {
+      "families": 9,
+      "added": "glas-slavonije.hr",
+      "kept": 219068,
+      "share": 0.642353,
+      "gained": 80
+    },
+    {
+      "families": 10,
+      "added": "tatoeba",
+      "kept": 219121,
+      "share": 0.642508,
+      "gained": 53
+    },
+    {
+      "families": 11,
+      "added": "srce.hr",
+      "kept": 219153,
+      "share": 0.642602,
+      "gained": 32
+    },
+    {
+      "families": 12,
+      "added": "jutarnji.hr",
+      "kept": 219183,
+      "share": 0.64269,
+      "gained": 30
+    },
+    {
+      "families": 13,
+      "added": "vecernji.hr",
+      "kept": 219211,
+      "share": 0.642772,
+      "gained": 28
+    },
+    {
+      "families": 14,
+      "added": "tportal.hr",
+      "kept": 219225,
+      "share": 0.642813,
+      "gained": 14
+    },
+    {
+      "families": 15,
+      "added": "booksa.hr",
+      "kept": 219239,
+      "share": 0.642854,
+      "gained": 14
+    },
+    {
+      "families": 16,
+      "added": "slobodnadalmacija.hr",
+      "kept": 219245,
+      "share": 0.642872,
+      "gained": 6
+    },
+    {
+      "families": 17,
+      "added": "hrt.hr",
+      "kept": 219247,
+      "share": 0.642878,
+      "gained": 2
+    }
+  ]
+}
